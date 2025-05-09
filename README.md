@@ -9,9 +9,9 @@ Meu principal objetivo com este repositório é acompanhar meu progresso no apre
 
 ## 📁 Estrutura do Repositório
 
-> Os nomes e pastas serão atualizados conforme avanço nos estudos.
+Os nomes e pastas serão atualizados conforme avanço nos estudos.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 21
 - IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
